@@ -1,6 +1,16 @@
 # NextPix Gallery
 
-NextPix Gallery is a simple image gallery web application built with Next.js, Tailwind CSS, Shadcn UI, TypeScript, and Zod. It fetches images from the Pexels API and displays them in an elegant gallery format.
+NextPix Gallery is a simple image gallery web application built with Next.js App Directory, Tailwind CSS, Shadcn UI, TypeScript, and Zod. It fetches images from the Pexels API and displays them in an elegant gallery format.
+
+## Preview
+
+### Dark Mode
+
+![Dark Mode Preview](./preview2.png)
+
+### Light Mode
+
+![Light Mode Preview](./preview1.png)
 
 ## Features
 
