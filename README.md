@@ -97,7 +97,7 @@ I would like to extend my heartfelt thanks to the following:
 
 -  [Dave Gray](https://github.com/gitdagray) and [Shaun (Net Ninja)](https://github.com/iamshaunjp) for their excellent course.
 
--[shadcn](https://shadcn.com/) for their outstanding [UI framework](https://ui.shadcn.com/) that greatly contributed to the aesthetics and functionality of this project.
+- [shadcn](https://shadcn.com/) for their outstanding [UI framework](https://ui.shadcn.com/) that greatly contributed to the aesthetics and functionality of this project.
 
 -  [Pexels](https://www.pexels.com/) for offering their generous API, allowing us to access a vast collection of high-quality images for this image gallery.
 
